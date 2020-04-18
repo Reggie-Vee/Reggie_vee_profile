@@ -1,0 +1,26 @@
+body {
+    background-color:#fdd998;
+    font-family:roboto;
+    color:#391c08;
+
+}
+.glance {
+    padding:#391c08;
+}
+.contact_form {
+    margin-top:-200px;
+    text-align:right;
+    margin-right:50px;
+}
+p1 {
+    margin-right:65px;
+}  
+
+
+#submit {
+    color:#FFFFFF;
+    background-color:#d2691e;
+    border-color:#391c08;
+    width:100px;
+    margin-right:55px;
+}
